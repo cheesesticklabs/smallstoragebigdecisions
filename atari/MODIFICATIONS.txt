@@ -1,0 +1,1 @@
+Classroom wrapper adapted from the existing local Atari player. Loads the bundled Space Invaders ROM from the same origin. Javatari source and license included.
